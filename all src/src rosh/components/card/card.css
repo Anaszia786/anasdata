@@ -1,0 +1,14 @@
+.card{
+    width: 250px;
+    position: relative;
+    
+}
+.like-btn{
+    width: 30px ;
+    position: absolute;
+    top: 250px;
+    right: 5px;
+}
+.liked{
+    fill: red;
+}

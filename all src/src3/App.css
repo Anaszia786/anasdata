@@ -1,0 +1,14 @@
+.flex{
+  display: flex;
+  justify-content: space-around;
+}
+
+#app1 {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+main {
+  flex: 1 0 auto;
+}

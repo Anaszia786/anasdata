@@ -1,0 +1,17 @@
+.card{
+    width: 250px;
+}
+.liked{
+    fill: red;
+}
+
+.like-btn{
+    width: 31px;
+    position: absolute;
+    right: 10px;
+    top: 256px;
+}
+.card-title{
+    color:red!important;
+    font-size: 20px !important;
+}

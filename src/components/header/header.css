@@ -1,0 +1,27 @@
+.logo-name{
+    margin-left: 9%;
+}
+
+li{
+    position: relative;
+}
+
+.totalOrders{
+    position: absolute;
+    top: -29px;
+    right: 21px;
+    height: fit-content;
+    line-height: 0;
+    color: white;
+    width: 20px;
+    bottom: 0;
+    margin: auto;
+    padding: 9px;
+    border-radius: 50%;
+    background: black;
+    text-align: center;
+}
+
+.cart-icon{
+    width: 30px;
+}

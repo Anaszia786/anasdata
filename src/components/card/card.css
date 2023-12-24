@@ -1,0 +1,19 @@
+.card{
+    width: 250px;
+}
+
+.liked{
+    fill: red;
+}
+
+.card-parent{
+    position: relative;
+    
+}
+
+.like-btn{
+    z-index: 3;
+    position: absolute;
+    width: 24px;
+    right: 7px;
+}
